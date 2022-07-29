@@ -1,7 +1,7 @@
 baseURL = "https://alirtech.netlify.app"
 languageCode = "id-id"
 title = "Alirtech || Sharing dan belajar"
-theme = "alirtech-v2"
+theme = "alirtech"
 summaryLength = 10
 paginate = 6
 [params]

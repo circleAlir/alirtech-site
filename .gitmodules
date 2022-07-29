@@ -1,1 +1,5 @@
 
+[submodule "themes/alirtech"]
+	path = themes/alirtech
+	url = https://github.com/circleAlir/alirtech.git
+	branch = master
