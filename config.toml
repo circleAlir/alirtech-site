@@ -1,0 +1,13 @@
+baseURL = "https://alirtech.netlify.app"
+languageCode = "id-id"
+title = "Alirtech || Sharing dan belajar"
+theme = "alirtech-v2"
+summaryLength = 10
+paginate = 6
+[params]
+    Description = "Komunitas Belajar dan Sharing"
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    topik = "topik"
+    bahasa = "bahasa"
